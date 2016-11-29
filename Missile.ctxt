@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=laser\ x\ y\ aCanvas
+comment0.target=Missile(java.awt.Image,\ double,\ double,\ objectdraw.DrawingCanvas)
+comment1.params=
+comment1.target=void\ run()
+comment2.params=segment
+comment2.target=boolean\ centipedeHit(objectdraw.VisibleImage)
+comment3.params=shroom
+comment3.target=boolean\ mushroomHit(objectdraw.VisibleImage)
+numComments=4

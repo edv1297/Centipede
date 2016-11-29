@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=zapImg\ x\ y\ aCanvas
+comment0.target=Zapper(java.awt.Image,\ double,\ double,\ objectdraw.DrawingCanvas)
+comment1.params=
+comment1.target=void\ moveLeft()
+comment2.params=
+comment2.target=void\ moveRight()
+comment3.params=
+comment3.target=double\ getX()
+comment4.params=
+comment4.target=double\ getY()
+comment5.params=
+comment5.target=double\ getWidth()
+numComments=6

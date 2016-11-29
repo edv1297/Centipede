@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=segImg\ x\ y\ aCanvas\ mushroomField\ zap1
+comment0.target=Segment(java.awt.Image,\ int,\ int,\ objectdraw.DrawingCanvas,\ Field,\ Zapper)
+comment1.params=
+comment1.target=double\ getX()
+comment2.params=
+comment2.target=double\ getY()
+comment3.params=
+comment3.target=void\ step()
+comment4.params=
+comment4.target=void\ shiftDown()
+comment5.params=
+comment5.target=void\ removeFromCanvas()
+comment6.params=
+comment6.target=objectdraw.Location\ getLocation()
+numComments=7
